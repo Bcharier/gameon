@@ -1,5 +1,7 @@
 GameOn - Projet 4 du parcours de développeur front end - OpenClassrooms
 
+https://bcharier.github.io/gameon/
+
 Technologies utilisées : HTML/CSS/JS
 
 Projet réalisé par Baptiste Charier
